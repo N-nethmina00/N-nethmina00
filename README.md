@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 <br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently Studying on **University of Ruhuna Faculty of Technology**
 
@@ -22,7 +21,7 @@
 - 📫 How to reach me **nadeeranethmina2004@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -37,5 +36,9 @@
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thank+You!!!"></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
