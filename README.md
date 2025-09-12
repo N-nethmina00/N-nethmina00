@@ -1,9 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi 👋, I'm Nadeera Nethmina</h1>
-<p align="center">
+<div align="center"><img alt="dsmark" height="65px" width="80px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>
+  <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page!"></a>
 </p>
+  </div>
+<h1 align="center"> 🪸 I'm Nadeera Nethmina 🪸</h1>
+
+
 <h3 align="center">I am a Undergraduate ICT Student  and I'm from Colombo,Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n-nethmina00&label=Profile%20views&color=0e75b6&style=flat" alt="n-nethmina00" /> </p>
